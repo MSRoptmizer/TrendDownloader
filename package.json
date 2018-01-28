@@ -1,0 +1,22 @@
+{
+  "name": "trenddownloader",
+  "version": "1.0.0",
+  "description": "Trenddownloadfunktion fuer Die GLT der Firma DEOS AG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSRoptmizer/TrendDownloader.git"
+  },
+  "author": "Thorsten Maass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSRoptmizer/TrendDownloader/issues"
+  },
+  "homepage": "https://github.com/MSRoptmizer/TrendDownloader#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

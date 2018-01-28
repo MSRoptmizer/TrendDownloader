@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MSRoptmizer/TrendDownloader#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "get-csv": "^3.0.3"
   }
 }
